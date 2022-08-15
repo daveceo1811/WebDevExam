@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\smartwallet1\smartwallet1.web\obj\Debug\net6.0\WalletPlusInc.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\smartwallet1\smartwallet1.web\obj\Debug\net6.0\WalletPlusInc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\smartwallet1\smartwallet1.web\obj\Debug\net6.0\WalletPlusInc.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\smartwallet1\smartwallet1.web\obj\Debug\net6.0\WalletPlusInc.AssemblyInfo.cs
+C:\Users\USER\Desktop\smartwallet1\smartwallet1.web\obj\Debug\net6.0\WalletPlusInc.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\smartwallet1\smartwallet1.web\obj\Debug\net6.0\WalletPlusInc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\smartwallet1\smartwallet1.web\obj\Debug\net6.0\WalletPlusInc.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\smartwallet1\smartwallet1.web\obj\Debug\net6.0\WalletPlusInc.RazorAssemblyInfo.cs
